@@ -1,6 +1,3 @@
-![](./Attach/4936251685215514093.jpg)
-
-___
 
 ![Status](./profile-3d-contrib/profile-night-view.svg)
 
