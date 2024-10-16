@@ -1,5 +1,6 @@
 
-![Status](./profile-3d-contrib/profile-night-view.svg)
+| ![Status](./profile-3d-contrib/profile-night-view.svg) |
+| ----------- |
 
 <div align="center" >
 
