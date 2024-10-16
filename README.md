@@ -1,16 +1,16 @@
-## Hi there 👋
+  ![Status](./profile-3d-contrib/profile-night-view.svg)
 
-<!--
-**Ev3rR3d/Ev3rR3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div align="center" >
 
-Here are some ideas to get you started:
+  | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ev3rR3d&theme=cobalt2)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,powershell,github,kali,windows,linux,apple,aws,azure" />
+</a>
+  <br />
+
+  </div>
