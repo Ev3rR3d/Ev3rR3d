@@ -4,7 +4,7 @@
 
 <div align="center" >
 
-| [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ev3rR3d&theme=outrun)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+| [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ev3rR3d&theme=vision_friendly_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
 | ----------- |
 
 <a href="https://skillicons.dev"   >
