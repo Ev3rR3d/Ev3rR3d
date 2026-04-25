@@ -12,6 +12,7 @@
 <a href="https://nvd.nist.gov/vuln/detail/CVE-2023-50465"><img src="https://img.shields.io/badge/CVE--2023--50465-Stored%20XSS%20%7C%20Medium-cc8800?style=for-the-badge&labelColor=111111" /></a>
 </div>
 <p></p>
+<p></p>
 <div align="center">
 <img src="https://templates.images.credential.net/1677682410975725023965573912354.png" height="120" />
 &nbsp;&nbsp;
