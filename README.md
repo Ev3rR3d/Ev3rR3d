@@ -65,9 +65,8 @@
 
   <div align="center">
 
-  | [![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ev3rR3d&theme=vision_
-  friendly_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-  | --- |
+  | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ev3rR3d&theme=vision_friendly_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+  | ----------- |
 
   | ![3D Contrib](./profile-3d-contrib/profile-night-view.svg) |
   | --- |
