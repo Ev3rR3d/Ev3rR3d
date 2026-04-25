@@ -38,10 +38,6 @@
 <img src="./profile-3d-contrib/profile-night-view.svg" />
 </div>
 
----
-
-## Stack
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,powershell,github,kali,windows,linux,apple,aws,azure" />
 </div>
