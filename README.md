@@ -32,7 +32,7 @@
 &nbsp;&nbsp;
 <img src="https://templates.images.credential.net/16947191222671701758205992327842.png" height="120" />
 &nbsp;&nbsp;
-<img src="./assets/dcpt.png" height="120" />
+<img src="https://academy.desecsecurity.com/uploads/badges/dcpt.png" height="120" />
 </div>
 
 ---
