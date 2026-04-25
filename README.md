@@ -22,12 +22,17 @@
 ## Certifications
 
 <div align="center">
-<img src="https://img.shields.io/badge/OSCP-OffSec-b30000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/CRTO-Zero--Point_Security-111111?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/CRTL-Zero--Point_Security-111111?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/eWPTX-eLearnSecurity-1e3a5f?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/eWPT-eLearnSecurity-1e3a5f?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/DCPT-Desec-e67e00?style=for-the-badge&logoColor=white" />
+<img src="https://templates.images.credential.net/1677682410975725023965573912354.png" height="120" />
+&nbsp;&nbsp;
+<img src="https://api.eu.badgr.io/public/assertions/EnPV8EaOS_2TCRGa1sRu-Q/image" height="120" />
+&nbsp;&nbsp;
+<img src="https://media.badges.parchment.eu/uploads/badges/assertion-tVP9XtJfQpWd3imRpjjOJg.png" height="120" />
+<br/><br/>
+<img src="https://templates.images.credential.net/16947191873158488518373721742383.png" height="120" />
+&nbsp;&nbsp;
+<img src="https://templates.images.credential.net/16947191222671701758205992327842.png" height="120" />
+&nbsp;&nbsp;
+<img src="./assets/dcpt.png" height="120" />
 </div>
 
 ---
