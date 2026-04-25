@@ -10,9 +10,6 @@
 ## CVE Research
 
 <div align="center">
-<a href="https://github.com/Ev3rR3d/Statping_Poc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ev3rR3d&repo=Statping_Poc&theme=dark&hide_border=true" /></a>
-<a href="https://github.com/Ev3rR3d/CVE-2023-50465"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ev3rR3d&repo=CVE-2023-50465&theme=dark&hide_border=true" /></a>
-<br/>
 <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-26477"><img src="https://img.shields.io/badge/CVE--2024--26477-Privilege%20Escalation%20%7C%20High-cc5500?style=for-the-badge&labelColor=111111" /></a>
 <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-26478"><img src="https://img.shields.io/badge/CVE--2024--26478-Account%20Takeover%20%7C%20Medium-cc8800?style=for-the-badge&labelColor=111111" /></a>
 <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-26479"><img src="https://img.shields.io/badge/CVE--2024--26479-Information%20Disclosure%20%7C%20Medium-cc8800?style=for-the-badge&labelColor=111111" /></a>
