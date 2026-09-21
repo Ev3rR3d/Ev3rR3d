@@ -22,6 +22,8 @@
 ## Certifications
 
 <div align="center">
+<img src="https://templates.images.credential.net/16776782813666930824494918563079.png" height="120" />
+&nbsp;&nbsp;
 <img src="https://templates.images.credential.net/1677682410975725023965573912354.png" height="120" />
 &nbsp;&nbsp;
 <img src="https://api.eu.badgr.io/public/assertions/EnPV8EaOS_2TCRGa1sRu-Q/image" height="120" />
