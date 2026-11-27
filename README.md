@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=javaxcf&fontSize=80&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Cyber%20Security%20Manager%20%7C%20Red%2FPurple%20Team%20%7C%20Professor%20%7C%20Speaker&descAlignY=58" />
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF3333&center=true&vCenter=true&random=false&width=500&lines=5x+CVE+Author;OSEP+·+OSCP+·+CRTO+·+CRTL+·+eWPTX+·+eWPT+·+DCPT;H2HC+2024+Speaker;Maldev+%26+EDR+Evasion+Researcher;Red+Team+%26+Purple+Team+Professor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF3333&center=true&vCenter=true&random=false&width=600&lines=5x+CVE+Author;OSEP+%C2%B7+OSCP+%C2%B7+CRTO+%C2%B7+CRTL+%C2%B7+eWPTX+%C2%B7+eWPT+%C2%B7+DCPT;H2HC+2024+Speaker;Maldev+%26+EDR+Evasion+Researcher;Red+Team+%26+Purple+Team+Professor" />
 
 ---
 
